@@ -6,7 +6,7 @@
 ### JavasScript/React
 Alle røde opgaver lavet.
 
-### State med use Staet og useEffect
+### State med use State og useEffect
 
 ### Excercises List and Keys
 
