@@ -1,21 +1,21 @@
 # SP6
 
-##Part 1
+## Part 1
 
 
 ### JavasScript/React
 Alle røde opgaver lavet.
 
-###State med use Staet og useEffect
+### State med use Staet og useEffect
 
-###Excercises List and Keys
+### Excercises List and Keys
 
-###Forms with React
+### Forms with React
 
-###Lifting State
+### Lifting State
 
-###Api Interaction with fetch
+### Api Interaction with fetch
 
 
-##Part 2
+## Part 2
 Opgave 1 færdig
